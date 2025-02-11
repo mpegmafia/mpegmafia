@@ -103,7 +103,7 @@
 
 ---
 
-## 👑 Problem Solving **
+## 👑 Problem Solving
 <div style="display: flex; justify-content: space-between;">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qwa785" width="45%">
   <img src="http://mazandi.herokuapp.com/api?handle=qwa785" width="45%">

@@ -56,7 +56,7 @@
     <tr>
       <td align="center" width="300">
         <a href="https://github.com/windoorman/windoorman">
-            <img src="https://i.ibb.co/RGdrSGdr/windoormanfinal.png" width="100%" height="150px" alt="Project 1">
+            <img src="https://i.ibb.co/RGdrSGdr/windoormanfinal.png" width="auto" height="150px" alt="Project 1">
         </a>
         <br>
         <b>🏠 윈도어맨 </b>
@@ -65,7 +65,7 @@
       </td>
       <td align="center" width="300">
         <a href="https://github.com/mpegmafia/paperdot">
-            <img src="https://i.ibb.co/Gf7qrnWD/final.png" height="150px"  alt="Project 2">
+            <img src="https://i.ibb.co/Gf7qrnWD/final.png" height="150px" width="auto"  alt="Project 2">
         </a>
         <br>
         <b>📄 페이퍼닷</b>
@@ -74,7 +74,7 @@
       </td>
       <td align="center" width="300">
         <a href="https://github.com/mpegmafia/supia">
-            <img src="https://i.ibb.co/zV8scHCK/final.png" width="100%" height="150px" alt="Project 3">
+            <img src="https://i.ibb.co/zV8scHCK/final.png" width="auto" height="150px" alt="Project 3">
         </a>
         <br>
         <b>🌳 숲이야</b>
